@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\APIServer\obj\Debug\netcoreapp2.2\APIServer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\APIServer\obj\Debug\netcoreapp2.2\APIServer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\APIServer\obj\Debug\netcoreapp2.2\APIServer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\APIServer\obj\Debug\netcoreapp2.2\APIServer.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\APIServer\obj\Debug\netcoreapp2.2\APIServer.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\APIServer\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Admin\Desktop\APIServer\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Admin\Desktop\APIServer\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Admin\Desktop\APIServer\bin\Debug\netcoreapp2.2\APIServer.deps.json
+C:\Users\Admin\Desktop\APIServer\bin\Debug\netcoreapp2.2\APIServer.runtimeconfig.json
+C:\Users\Admin\Desktop\APIServer\bin\Debug\netcoreapp2.2\APIServer.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\APIServer\bin\Debug\netcoreapp2.2\APIServer.dll
+C:\Users\Admin\Desktop\APIServer\bin\Debug\netcoreapp2.2\APIServer.pdb
+C:\Users\Admin\Desktop\APIServer\obj\Debug\netcoreapp2.2\APIServer.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\APIServer\obj\Debug\netcoreapp2.2\APIServer.dll
+C:\Users\Admin\Desktop\APIServer\obj\Debug\netcoreapp2.2\APIServer.pdb
